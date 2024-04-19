@@ -1,1 +1,1 @@
-#Retrieval Augmented Generation using Large Language Model
+Retrieval Augmented Generation using Large Language Model
